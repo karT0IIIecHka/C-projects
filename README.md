@@ -1,7 +1,7 @@
 # C-projects
 Here you will find the C code files that I wrote while learning the language.
-The structure is as follows: each folder contains two code files and two assignment files
 
+The structure is as follows: each folder contains two code files and two assignment files
 Each code file corresponds to a task description file that is located directly below it
 
 For example:
