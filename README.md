@@ -10,9 +10,9 @@ For example:
 
 ----lab12.c
 
-----laboratornaia-rabota-12
+----laboratornaia-rabota-12.pdf
 
 ----sam12.c
 
-----samostoiatelnaia-rabota-12
+----samostoiatelnaia-rabota-12.pdf
 
