@@ -4,7 +4,12 @@ The structure is as follows: each folder contains two code files and two assignm
 
 For example:
 -12
+
 ----lab12.c
+
 ----laboratornaia-rabota-12
+
 ----sam12.c
+
 ----samostoiatelnaia-rabota-12
+
