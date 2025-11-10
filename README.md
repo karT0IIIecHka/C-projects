@@ -4,7 +4,7 @@ The structure is as follows: each folder contains two code files and two assignm
 
 For example:
 
--12
+12
 
 ----lab12.c
 
